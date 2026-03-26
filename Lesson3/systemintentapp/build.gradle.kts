@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.systemintentapp"
+    namespace = "ru.mirea.faizulinama.systemintentapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.systemintentapp"
+        applicationId = "ru.mirea.faizulinama.systemintentapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

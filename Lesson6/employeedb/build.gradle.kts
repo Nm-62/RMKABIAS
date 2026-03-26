@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.employeedb"
+    namespace = "ru.mirea.faizulinama.employeedb"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.employeedb"
+        applicationId = "ru.mirea.faizulinama.employeedb"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

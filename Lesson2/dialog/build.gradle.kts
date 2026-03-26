@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.dialog"
+    namespace = "ru.mirea.faizulinama.dialog"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.dialog"
+        applicationId = "ru.mirea.faizulinama.dialog"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.cryptoloader"
+    namespace = "ru.mirea.faizulinama.cryptoloader"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.cryptoloader"
+        applicationId = "ru.mirea.faizulinama.cryptoloader"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

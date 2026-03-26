@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.data_thread"
+    namespace = "ru.mirea.faizulinama.data_thread"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.data_threat"
+        applicationId = "ru.mirea.faizulinama.data_threat"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

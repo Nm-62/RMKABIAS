@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.audiorecord"
+    namespace = "ru.mirea.faizulinama.audiorecord"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.audiorecord"
+        applicationId = "ru.mirea.faizulinama.audiorecord"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

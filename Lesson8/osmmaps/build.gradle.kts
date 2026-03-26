@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.osmmaps"
+    namespace = "ru.mirea.faizulinama.osmmaps"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.osmmaps"
+        applicationId = "ru.mirea.faizulinama.osmmaps"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.notificationapp"
+    namespace = "ru.mirea.faizulinama.notificationapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.notificationapp"
+        applicationId = "ru.mirea.faizulinama.notificationapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

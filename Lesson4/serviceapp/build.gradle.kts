@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.serviceapp"
+    namespace = "ru.mirea.faizulinama.serviceapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.serviceapp"
+        applicationId = "ru.mirea.faizulinama.serviceapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

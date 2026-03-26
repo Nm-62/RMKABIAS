@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.accelerometer"
+    namespace = "ru.mirea.faizulinama.accelerometer"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.accelerometer"
+        applicationId = "ru.mirea.faizulinama.accelerometer"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

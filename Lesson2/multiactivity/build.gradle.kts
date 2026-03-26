@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.multiactivity"
+    namespace = "ru.mirea.faizulinama.multiactivity"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.multiactivity"
+        applicationId = "ru.mirea.faizulinama.multiactivity"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

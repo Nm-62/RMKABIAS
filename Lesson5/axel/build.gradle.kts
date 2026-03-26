@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.axel"
+    namespace = "ru.mirea.faizulinama.axel"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.axel"
+        applicationId = "ru.mirea.faizulinama.axel"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

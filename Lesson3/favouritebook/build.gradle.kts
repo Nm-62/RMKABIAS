@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.favouritebook"
+    namespace = "ru.mirea.faizulinama.favouritebook"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.favouritebook"
+        applicationId = "ru.mirea.faizulinama.favouritebook"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.looper"
+    namespace = "ru.mirea.faizulinama.looper"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.looper"
+        applicationId = "ru.mirea.faizulinama.looper"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

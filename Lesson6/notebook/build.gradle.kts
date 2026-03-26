@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.notebook"
+    namespace = "ru.mirea.faizulinama.notebook"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.notebook"
+        applicationId = "ru.mirea.faizulinama.notebook"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

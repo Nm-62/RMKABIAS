@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.httpurlconnection"
+    namespace = "ru.mirea.faizulinama.httpurlconnection"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.httpurlconnection"
+        applicationId = "ru.mirea.faizulinama.httpurlconnection"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

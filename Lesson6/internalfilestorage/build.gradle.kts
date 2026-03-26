@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.internalfilestorage"
+    namespace = "ru.mirea.faizulinama.internalfilestorage"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.internalfilestorage"
+        applicationId = "ru.mirea.faizulinama.internalfilestorage"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

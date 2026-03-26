@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.activitylifecycle"
+    namespace = "ru.mirea.faizulinama.activitylifecycle"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.activitylifecycle"
+        applicationId = "ru.mirea.faizulinama.activitylifecycle"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

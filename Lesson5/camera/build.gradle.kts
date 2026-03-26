@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.camera"
+    namespace = "ru.mirea.faizulinama.camera"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.camera"
+        applicationId = "ru.mirea.faizulinama.camera"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

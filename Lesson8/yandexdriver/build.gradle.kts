@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.yandexdriver"
+    namespace = "ru.mirea.faizulinama.yandexdriver"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.yandexdriver"
+        applicationId = "ru.mirea.faizulinama.yandexdriver"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

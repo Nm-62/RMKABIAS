@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.timeservice"
+    namespace = "ru.mirea.faizulinama.timeservice"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.timeservice"
+        applicationId = "ru.mirea.faizulinama.timeservice"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

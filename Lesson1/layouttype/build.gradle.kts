@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.layouttype"
+    namespace = "ru.mirea.faizulinama.layouttype"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.layouttype"
+        applicationId = "ru.mirea.faizulinama.layouttype"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
