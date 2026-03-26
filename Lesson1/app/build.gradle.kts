@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.Faizulinama.Lesson1"
+    namespace = "ru.mirea.faizulinama.Lesson1"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.Faizulinama.Lesson1"
+        applicationId = "ru.mirea.faizulinama.Lesson1"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
