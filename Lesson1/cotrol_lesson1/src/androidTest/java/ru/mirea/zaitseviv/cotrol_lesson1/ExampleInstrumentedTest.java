@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.cotrol_lesson1;
+package ru.mirea.faizulinama.cotrol_lesson1;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.zaitseviv.cotrol_lesson1", appContext.getPackageName());
+        assertEquals("ru.mirea.faizulinama.cotrol_lesson1", appContext.getPackageName());
     }
 }

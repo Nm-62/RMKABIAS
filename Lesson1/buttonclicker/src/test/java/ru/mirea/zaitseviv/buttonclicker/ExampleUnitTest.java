@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.buttonclicker;
+package ru.mirea.faizulinama.buttonclicker;
 
 import org.junit.Test;
 

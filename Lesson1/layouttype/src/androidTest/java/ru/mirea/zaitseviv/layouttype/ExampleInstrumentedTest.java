@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.layouttype;
+package ru.mirea.faizulinama.layouttype;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.zaitseviv.layouttype", appContext.getPackageName());
+        assertEquals("ru.mirea.faizulinama.layouttype", appContext.getPackageName());
     }
 }

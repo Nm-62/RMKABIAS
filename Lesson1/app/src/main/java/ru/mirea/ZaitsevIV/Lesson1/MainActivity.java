@@ -1,4 +1,4 @@
-package ru.mirea.ZaitsevIV.Lesson1;
+package ru.mirea.FaizulinaMA.Lesson1;
 
 import android.os.Bundle;
 

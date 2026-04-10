@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.layouttype;
+package ru.mirea.faizulinama.layouttype;
 
 import org.junit.Test;
 
