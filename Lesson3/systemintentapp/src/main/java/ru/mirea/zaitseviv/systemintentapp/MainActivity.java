@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.systemintentapp;
+package ru.mirea.faizulinama.systemintentapp;
 
 import android.content.Intent;
 import android.net.Uri;

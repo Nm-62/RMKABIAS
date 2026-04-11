@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.favouritebook;
+package ru.mirea.faizulinama.favouritebook;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.zaitseviv.favouritebook", appContext.getPackageName());
+        assertEquals("ru.mirea.faizulinama.favouritebook", appContext.getPackageName());
     }
 }

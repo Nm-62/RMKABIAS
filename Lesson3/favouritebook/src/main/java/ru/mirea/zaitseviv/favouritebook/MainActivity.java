@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.favouritebook;
+package ru.mirea.faizulinama.favouritebook;
 
 import android.app.Activity;
 import android.content.Intent;

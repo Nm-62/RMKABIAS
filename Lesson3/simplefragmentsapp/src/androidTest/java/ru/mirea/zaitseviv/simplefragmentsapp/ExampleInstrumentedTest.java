@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.simplefragmentsapp;
+package ru.mirea.faizulinama.simplefragmentsapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.zaitseviv.simplefragmentsapp", appContext.getPackageName());
+        assertEquals("ru.mirea.faizulinama.simplefragmentsapp", appContext.getPackageName());
     }
 }

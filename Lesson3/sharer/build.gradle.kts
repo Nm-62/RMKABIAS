@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.zaitseviv.sharer"
+    namespace = "ru.mirea.faizulinama.sharer"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.zaitseviv.sharer"
+        applicationId = "ru.mirea.faizulinama.sharer"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

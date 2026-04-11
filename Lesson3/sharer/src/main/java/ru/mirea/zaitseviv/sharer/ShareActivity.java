@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.sharer;
+package ru.mirea.faizulinama.sharer;
 
 import android.os.Bundle;
 

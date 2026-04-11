@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.lesson3;
+package ru.mirea.faizulinama.lesson3;
 
 import org.junit.Test;
 

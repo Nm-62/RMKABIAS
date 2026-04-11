@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.intentapp;
+package ru.mirea.faizulinama.intentapp;
 
 import org.junit.Test;
 

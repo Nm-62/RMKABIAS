@@ -1,4 +1,4 @@
-package ru.mirea.zaitseviv.simplefragmentsapp;
+package ru.mirea.faizulinama.simplefragmentsapp;
 
 import org.junit.Test;
 
